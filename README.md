@@ -52,7 +52,7 @@ Secured_AI_Agent.ipynb
 
 2. Gradio Web App
 
-👉 The chatbot launches
+👉 The chat interface launches
 
 ## 🧩 System Workflow
 
