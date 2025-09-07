@@ -1,13 +1,13 @@
 # Secured AI Agents with Privacy & Safety Filters  
 
-🚀 An AI Agent system built with LangGraph + Groq LLM + Tavily Search + ChromaDB, enhanced with Privacy Filters (PII redaction) and Safety Filters (profanity/content moderation).
+🚀 An AI Agent system built with **LangGraph** + **Groq LLM** + **Tavily Search** + **ChromaDB**, enhanced with **Privacy Filters** (PII redaction) and **Safety Filters** (profanity/content moderation).
 This project ensures responsible AI interactions by protecting sensitive user data and moderating harmful content.
 
 ## ✨ Features
 
 ### Privacy Filter 🛡️
 
-Detects and redacts PII such as phone numbers, email addresses, credit card numbers, and names.
+Detects and redacts **PII** such as phone numbers, email addresses, credit card numbers, and names.
 
 ### Content Moderation Filter 🔒
 
@@ -19,15 +19,15 @@ Stores conversations for retrieval-augmented responses.
 
 ### Tool Integration 🔧
 
-Integrated with Tavily Search API for real-time web search.
+Integrated with **Tavily Search** API for real-time web search.
 
 ### LLM with Safety Controls 🤖
 
-Uses Groq’s LLM (openai/gpt-oss-120b) with tool binding.
+Uses **Groq’s LLM** ***(openai/gpt-oss-120b)*** with tool binding.
 
 ### Interactive Chat UI 💬
 
-Powered by Gradio for a clean chatbot interface.
+Powered by **Gradio** for a clean AI Agent chat interface.
 
 ## 🛠️ Installation
 
