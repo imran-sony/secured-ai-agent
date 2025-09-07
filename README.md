@@ -1,6 +1,6 @@
 # Secured AI Agents with Privacy & Safety Filters  
 
-🚀 An AI Agent system built with LangGraph + LangChain + Groq LLM + Tavily Search + ChromaDB, enhanced with Privacy Filters (PII redaction) and Safety Filters (profanity/content moderation).
+🚀 An AI Agent system built with LangGraph + Groq LLM + Tavily Search + ChromaDB, enhanced with Privacy Filters (PII redaction) and Safety Filters (profanity/content moderation).
 This project ensures responsible AI interactions by protecting sensitive user data and moderating harmful content.
 
 ## ✨ Features
