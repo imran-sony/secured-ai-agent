@@ -70,4 +70,4 @@ The LangGraph pipeline consists of nodes:
 
 The flow is compiled into a secure conversational agent.
 
-![Agent Structure](./Agent Structure.png)
+![Agent_Structure](./Agent_Structure.png)
